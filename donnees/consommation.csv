@@ -1,0 +1,289 @@
+mois,quartier,commune,kwh,heures_courant
+2024-01,Bas-Peu-de-Chose,Port-au-Prince,184410,10.6
+2024-02,Bas-Peu-de-Chose,Port-au-Prince,195930,11.9
+2024-03,Bas-Peu-de-Chose,Port-au-Prince,186560,10.2
+2024-04,Bas-Peu-de-Chose,Port-au-Prince,236730,12.2
+2024-05,Bas-Peu-de-Chose,Port-au-Prince,206280,10.2
+2024-06,Bas-Peu-de-Chose,Port-au-Prince,247630,11.6
+2024-07,Bas-Peu-de-Chose,Port-au-Prince,151830,7.7
+2024-08,Bas-Peu-de-Chose,Port-au-Prince,259930,11.8
+2024-09,Bas-Peu-de-Chose,Port-au-Prince,219210,11.3
+2024-10,Bas-Peu-de-Chose,Port-au-Prince,215140,11.9
+2024-11,Bas-Peu-de-Chose,Port-au-Prince,206120,11.5
+2024-12,Bas-Peu-de-Chose,Port-au-Prince,210880,11.6
+2025-01,Bas-Peu-de-Chose,Port-au-Prince,202060,11.4
+2025-02,Bas-Peu-de-Chose,Port-au-Prince,251900,13.9
+2025-03,Bas-Peu-de-Chose,Port-au-Prince,204340,11.5
+2025-04,Bas-Peu-de-Chose,Port-au-Prince,270600,14.4
+2025-05,Bas-Peu-de-Chose,Port-au-Prince,226180,12.6
+2025-06,Bas-Peu-de-Chose,Port-au-Prince,239530,11.0
+2025-07,Bas-Peu-de-Chose,Port-au-Prince,183560,9.1
+2025-08,Bas-Peu-de-Chose,Port-au-Prince,180700,9.1
+2025-09,Bas-Peu-de-Chose,Port-au-Prince,225920,11.3
+2025-10,Bas-Peu-de-Chose,Port-au-Prince,274520,13.3
+2025-11,Bas-Peu-de-Chose,Port-au-Prince,217320,10.9
+2025-12,Bas-Peu-de-Chose,Port-au-Prince,171970,10.0
+2024-01,Bois-Verna,Port-au-Prince,176300,10.5
+2024-02,Bois-Verna,Port-au-Prince,224010,14.4
+2024-03,Bois-Verna,Port-au-Prince,301740,15.6
+2024-04,Bois-Verna,Port-au-Prince,212050,12.5
+2024-05,Bois-Verna,Port-au-Prince,229460,12.0
+2024-06,Bois-Verna,Port-au-Prince,318160,16.6
+2024-07,Bois-Verna,Port-au-Prince,263970,12.4
+2024-08,Bois-Verna,Port-au-Prince,182920,8.5
+2024-09,Bois-Verna,Port-au-Prince,207310,10.8
+2024-10,Bois-Verna,Port-au-Prince,205900,10.7
+2024-11,Bois-Verna,Port-au-Prince,233010,13.1
+2024-12,Bois-Verna,Port-au-Prince,190210,10.4
+2025-01,Bois-Verna,Port-au-Prince,205930,12.9
+2025-02,Bois-Verna,Port-au-Prince,263120,14.3
+2025-03,Bois-Verna,Port-au-Prince,264270,15.4
+2025-04,Bois-Verna,Port-au-Prince,152800,9.3
+2025-05,Bois-Verna,Port-au-Prince,155930,8.6
+2025-06,Bois-Verna,Port-au-Prince,285240,14.0
+2025-07,Bois-Verna,Port-au-Prince,200100,11.0
+2025-08,Bois-Verna,Port-au-Prince,202530,9.7
+2025-09,Bois-Verna,Port-au-Prince,256460,12.6
+2025-10,Bois-Verna,Port-au-Prince,300990,15.9
+2025-11,Bois-Verna,Port-au-Prince,236600,13.5
+2025-12,Bois-Verna,Port-au-Prince,212510,11.4
+2024-01,Centre-ville,Port-au-Prince,460600,13.1
+2024-02,Centre-ville,Port-au-Prince,424110,13.5
+2024-03,Centre-ville,Port-au-Prince,401850,11.1
+2024-04,Centre-ville,Port-au-Prince,299610,7.9
+2024-05,Centre-ville,Port-au-Prince,456550,13.2
+2024-06,Centre-ville,Port-au-Prince,427980,11.1
+2024-07,Centre-ville,Port-au-Prince,373880,9.6
+2024-08,Centre-ville,Port-au-Prince,333670,9.0
+2024-09,Centre-ville,Port-au-Prince,390690,9.5
+2024-10,Centre-ville,Port-au-Prince,431130,10.7
+2024-11,Centre-ville,Port-au-Prince,597730,17.5
+2024-12,Centre-ville,Port-au-Prince,404500,11.6
+2025-01,Centre-ville,Port-au-Prince,360320,11.1
+2025-02,Centre-ville,Port-au-Prince,536880,14.9
+2025-03,Centre-ville,Port-au-Prince,456060,12.6
+2025-04,Centre-ville,Port-au-Prince,457200,12.3
+2025-05,Centre-ville,Port-au-Prince,413200,11.1
+2025-06,Centre-ville,Port-au-Prince,495020,11.9
+2025-07,Centre-ville,Port-au-Prince,434050,10.5
+2025-08,Centre-ville,Port-au-Prince,527390,12.9
+2025-09,Centre-ville,Port-au-Prince,409300,10.5
+2025-10,Centre-ville,Port-au-Prince,547070,14.4
+2025-11,Centre-ville,Port-au-Prince,414630,10.8
+2025-12,Centre-ville,Port-au-Prince,493300,13.1
+2024-01,Delmas 33,Delmas,408650,10.3
+2024-02,Delmas 33,Delmas,342570,8.6
+2024-03,Delmas 33,Delmas,356730,9.8
+2024-04,Delmas 33,Delmas,417410,9.9
+2024-05,Delmas 33,Delmas,514190,11.8
+2024-06,Delmas 33,Delmas,346850,8.3
+2024-07,Delmas 33,Delmas,556070,12.5
+2024-08,Delmas 33,Delmas,410360,9.6
+2024-09,Delmas 33,Delmas,427370,10.1
+2024-10,Delmas 33,Delmas,457140,12.0
+2024-11,Delmas 33,Delmas,433100,10.3
+2024-12,Delmas 33,Delmas,480470,12.8
+2025-01,Delmas 33,Delmas,260360,7.4
+2025-02,Delmas 33,Delmas,360260,10.1
+2025-03,Delmas 33,Delmas,584580,16.2
+2025-04,Delmas 33,Delmas,582780,14.5
+2025-05,Delmas 33,Delmas,386460,10.1
+2025-06,Delmas 33,Delmas,540540,13.0
+2025-07,Delmas 33,Delmas,742780,16.9
+2025-08,Delmas 33,Delmas,470080,10.9
+2025-09,Delmas 33,Delmas,591420,14.8
+2025-10,Delmas 33,Delmas,438600,11.2
+2025-11,Delmas 33,Delmas,392760,9.4
+2025-12,Delmas 33,Delmas,387860,10.7
+2024-01,Delmas 65,Delmas,278000,10.7
+2024-02,Delmas 65,Delmas,344850,13.0
+2024-03,Delmas 65,Delmas,283290,10.5
+2024-04,Delmas 65,Delmas,347870,11.9
+2024-05,Delmas 65,Delmas,408780,14.0
+2024-06,Delmas 65,Delmas,169090,6.0
+2024-07,Delmas 65,Delmas,307480,11.2
+2024-08,Delmas 65,Delmas,292970,9.7
+2024-09,Delmas 65,Delmas,364090,12.2
+2024-10,Delmas 65,Delmas,398340,13.9
+2024-11,Delmas 65,Delmas,215070,7.4
+2024-12,Delmas 65,Delmas,331530,12.3
+2025-01,Delmas 65,Delmas,280820,11.9
+2025-02,Delmas 65,Delmas,332910,12.9
+2025-03,Delmas 65,Delmas,243160,9.1
+2025-04,Delmas 65,Delmas,348600,12.8
+2025-05,Delmas 65,Delmas,469960,16.1
+2025-06,Delmas 65,Delmas,375840,13.5
+2025-07,Delmas 65,Delmas,293340,10.8
+2025-08,Delmas 65,Delmas,352580,11.3
+2025-09,Delmas 65,Delmas,465850,17.0
+2025-10,Delmas 65,Delmas,454750,15.4
+2025-11,Delmas 65,Delmas,352560,13.6
+2025-12,Delmas 65,Delmas,354730,13.7
+2024-01,Delmas 75,Delmas,173470,9.5
+2024-02,Delmas 75,Delmas,246020,13.2
+2024-03,Delmas 75,Delmas,208750,12.1
+2024-04,Delmas 75,Delmas,204800,11.2
+2024-05,Delmas 75,Delmas,253180,12.6
+2024-06,Delmas 75,Delmas,267890,14.2
+2024-07,Delmas 75,Delmas,190120,9.0
+2024-08,Delmas 75,Delmas,260980,13.6
+2024-09,Delmas 75,Delmas,232730,11.3
+2024-10,Delmas 75,Delmas,162410,9.1
+2024-11,Delmas 75,Delmas,292970,15.2
+2024-12,Delmas 75,Delmas,227770,12.6
+2025-01,Delmas 75,Delmas,154720,9.3
+2025-02,Delmas 75,Delmas,201270,11.1
+2025-03,Delmas 75,Delmas,225920,12.6
+2025-04,Delmas 75,Delmas,236820,12.1
+2025-05,Delmas 75,Delmas,210450,10.3
+2025-06,Delmas 75,Delmas,320570,15.2
+2025-07,Delmas 75,Delmas,237330,11.1
+2025-08,Delmas 75,Delmas,260190,12.2
+2025-09,Delmas 75,Delmas,335940,16.7
+2025-10,Delmas 75,Delmas,197150,10.3
+2025-11,Delmas 75,Delmas,241160,12.1
+2025-12,Delmas 75,Delmas,235140,12.9
+2024-01,Thomassin,Pétion-Ville,107080,8.0
+2024-02,Thomassin,Pétion-Ville,198010,13.3
+2024-03,Thomassin,Pétion-Ville,190510,11.3
+2024-04,Thomassin,Pétion-Ville,233700,13.8
+2024-05,Thomassin,Pétion-Ville,191260,12.0
+2024-06,Thomassin,Pétion-Ville,141720,8.6
+2024-07,Thomassin,Pétion-Ville,133270,7.9
+2024-08,Thomassin,Pétion-Ville,202080,11.7
+2024-09,Thomassin,Pétion-Ville,144010,8.5
+2024-10,Thomassin,Pétion-Ville,172660,10.7
+2024-11,Thomassin,Pétion-Ville,148810,9.4
+2024-12,Thomassin,Pétion-Ville,182340,12.1
+2025-01,Thomassin,Pétion-Ville,142700,9.7
+2025-02,Thomassin,Pétion-Ville,223360,13.4
+2025-03,Thomassin,Pétion-Ville,168050,10.5
+2025-04,Thomassin,Pétion-Ville,208650,13.9
+2025-05,Thomassin,Pétion-Ville,309070,17.0
+2025-06,Thomassin,Pétion-Ville,182460,10.1
+2025-07,Thomassin,Pétion-Ville,194260,10.4
+2025-08,Thomassin,Pétion-Ville,286830,15.3
+2025-09,Thomassin,Pétion-Ville,253300,13.8
+2025-10,Thomassin,Pétion-Ville,227860,13.2
+2025-11,Thomassin,Pétion-Ville,196170,11.0
+2025-12,Thomassin,Pétion-Ville,188190,12.6
+2024-01,Place Saint-Pierre,Pétion-Ville,273590,9.8
+2024-02,Place Saint-Pierre,Pétion-Ville,372670,11.9
+2024-03,Place Saint-Pierre,Pétion-Ville,376020,10.5
+2024-04,Place Saint-Pierre,Pétion-Ville,321510,10.2
+2024-05,Place Saint-Pierre,Pétion-Ville,394380,11.5
+2024-06,Place Saint-Pierre,Pétion-Ville,447700,12.7
+2024-07,Place Saint-Pierre,Pétion-Ville,411140,10.6
+2024-08,Place Saint-Pierre,Pétion-Ville,385840,11.1
+2024-09,Place Saint-Pierre,Pétion-Ville,500960,12.9
+2024-10,Place Saint-Pierre,Pétion-Ville,475570,12.6
+2024-11,Place Saint-Pierre,Pétion-Ville,349740,11.6
+2024-12,Place Saint-Pierre,Pétion-Ville,348270,11.0
+2025-01,Place Saint-Pierre,Pétion-Ville,411180,13.0
+2025-02,Place Saint-Pierre,Pétion-Ville,318250,9.5
+2025-03,Place Saint-Pierre,Pétion-Ville,477350,14.5
+2025-04,Place Saint-Pierre,Pétion-Ville,445270,13.0
+2025-05,Place Saint-Pierre,Pétion-Ville,538050,14.6
+2025-06,Place Saint-Pierre,Pétion-Ville,318300,8.4
+2025-07,Place Saint-Pierre,Pétion-Ville,304780,8.3
+2025-08,Place Saint-Pierre,Pétion-Ville,337810,9.2
+2025-09,Place Saint-Pierre,Pétion-Ville,366390,10.8
+2025-10,Place Saint-Pierre,Pétion-Ville,387160,11.1
+2025-11,Place Saint-Pierre,Pétion-Ville,442990,12.6
+2025-12,Place Saint-Pierre,Pétion-Ville,454210,13.6
+2024-01,Morne Calvaire,Pétion-Ville,148010,11.2
+2024-02,Morne Calvaire,Pétion-Ville,143920,11.4
+2024-03,Morne Calvaire,Pétion-Ville,147230,10.2
+2024-04,Morne Calvaire,Pétion-Ville,184220,13.6
+2024-05,Morne Calvaire,Pétion-Ville,157120,11.6
+2024-06,Morne Calvaire,Pétion-Ville,154740,10.4
+2024-07,Morne Calvaire,Pétion-Ville,171070,11.9
+2024-08,Morne Calvaire,Pétion-Ville,168730,10.4
+2024-09,Morne Calvaire,Pétion-Ville,170420,11.2
+2024-10,Morne Calvaire,Pétion-Ville,192420,12.8
+2024-11,Morne Calvaire,Pétion-Ville,129360,10.2
+2024-12,Morne Calvaire,Pétion-Ville,125250,9.3
+2025-01,Morne Calvaire,Pétion-Ville,161710,12.8
+2025-02,Morne Calvaire,Pétion-Ville,201690,14.5
+2025-03,Morne Calvaire,Pétion-Ville,148030,10.5
+2025-04,Morne Calvaire,Pétion-Ville,220480,15.1
+2025-05,Morne Calvaire,Pétion-Ville,162170,11.7
+2025-06,Morne Calvaire,Pétion-Ville,221200,14.3
+2025-07,Morne Calvaire,Pétion-Ville,189570,11.5
+2025-08,Morne Calvaire,Pétion-Ville,230910,14.5
+2025-09,Morne Calvaire,Pétion-Ville,205900,14.1
+2025-10,Morne Calvaire,Pétion-Ville,172310,11.9
+2025-11,Morne Calvaire,Pétion-Ville,183730,12.5
+2025-12,Morne Calvaire,Pétion-Ville,194740,13.2
+2024-01,Carénage,Cap-Haïtien,69550,6.1
+2024-02,Carénage,Cap-Haïtien,81370,7.3
+2024-03,Carénage,Cap-Haïtien,97200,8.1
+2024-04,Carénage,Cap-Haïtien,139470,11.7
+2024-05,Carénage,Cap-Haïtien,77670,5.9
+2024-06,Carénage,Cap-Haïtien,139230,10.6
+2024-07,Carénage,Cap-Haïtien,127520,10.0
+2024-08,Carénage,Cap-Haïtien,85670,6.0
+2024-09,Carénage,Cap-Haïtien,117390,9.0
+2024-10,Carénage,Cap-Haïtien,121240,10.2
+2024-11,Carénage,Cap-Haïtien,128050,9.6
+2024-12,Carénage,Cap-Haïtien,160110,12.0
+2025-01,Carénage,Cap-Haïtien,132520,11.3
+2025-02,Carénage,Cap-Haïtien,112450,10.0
+2025-03,Carénage,Cap-Haïtien,138270,12.1
+2025-04,Carénage,Cap-Haïtien,144360,10.5
+2025-05,Carénage,Cap-Haïtien,105830,8.4
+2025-06,Carénage,Cap-Haïtien,129360,9.4
+2025-07,Carénage,Cap-Haïtien,131650,10.8
+2025-08,Carénage,Cap-Haïtien,96510,7.3
+2025-09,Carénage,Cap-Haïtien,125100,9.7
+2025-10,Carénage,Cap-Haïtien,135220,10.3
+2025-11,Carénage,Cap-Haïtien,134480,10.9
+2025-12,Carénage,Cap-Haïtien,151200,11.9
+2024-01,Rue 15,Cap-Haïtien,99770,5.9
+2024-02,Rue 15,Cap-Haïtien,113400,6.0
+2024-03,Rue 15,Cap-Haïtien,144700,7.5
+2024-04,Rue 15,Cap-Haïtien,189770,9.6
+2024-05,Rue 15,Cap-Haïtien,175560,8.7
+2024-06,Rue 15,Cap-Haïtien,113530,5.3
+2024-07,Rue 15,Cap-Haïtien,177310,9.2
+2024-08,Rue 15,Cap-Haïtien,246660,11.9
+2024-09,Rue 15,Cap-Haïtien,153430,7.9
+2024-10,Rue 15,Cap-Haïtien,163010,8.3
+2024-11,Rue 15,Cap-Haïtien,185660,9.8
+2024-12,Rue 15,Cap-Haïtien,235210,11.2
+2025-01,Rue 15,Cap-Haïtien,190440,10.1
+2025-02,Rue 15,Cap-Haïtien,198720,11.1
+2025-03,Rue 15,Cap-Haïtien,199900,10.2
+2025-04,Rue 15,Cap-Haïtien,241720,13.0
+2025-05,Rue 15,Cap-Haïtien,303180,14.7
+2025-06,Rue 15,Cap-Haïtien,254750,11.2
+2025-07,Rue 15,Cap-Haïtien,224510,10.5
+2025-08,Rue 15,Cap-Haïtien,255240,11.8
+2025-09,Rue 15,Cap-Haïtien,281240,13.0
+2025-10,Rue 15,Cap-Haïtien,214970,10.3
+2025-11,Rue 15,Cap-Haïtien,104640,5.9
+2025-12,Rue 15,Cap-Haïtien,168580,9.3
+2024-01,Petite-Anse,Cap-Haïtien,90630,8.0
+2024-02,Petite-Anse,Cap-Haïtien,98040,8.6
+2024-03,Petite-Anse,Cap-Haïtien,166700,13.9
+2024-04,Petite-Anse,Cap-Haïtien,137780,11.1
+2024-05,Petite-Anse,Cap-Haïtien,106550,8.2
+2024-06,Petite-Anse,Cap-Haïtien,91200,7.1
+2024-07,Petite-Anse,Cap-Haïtien,162070,12.2
+2024-08,Petite-Anse,Cap-Haïtien,135500,10.0
+2024-09,Petite-Anse,Cap-Haïtien,73110,6.3
+2024-10,Petite-Anse,Cap-Haïtien,92480,7.5
+2024-11,Petite-Anse,Cap-Haïtien,167990,13.3
+2024-12,Petite-Anse,Cap-Haïtien,112790,8.9
+2025-01,Petite-Anse,Cap-Haïtien,124420,11.4
+2025-02,Petite-Anse,Cap-Haïtien,125360,10.6
+2025-03,Petite-Anse,Cap-Haïtien,109870,9.8
+2025-04,Petite-Anse,Cap-Haïtien,102490,9.1
+2025-05,Petite-Anse,Cap-Haïtien,171160,13.0
+2025-06,Petite-Anse,Cap-Haïtien,179590,13.6
+2025-07,Petite-Anse,Cap-Haïtien,160550,13.3
+2025-08,Petite-Anse,Cap-Haïtien,159780,12.0
+2025-09,Petite-Anse,Cap-Haïtien,171060,12.5
+2025-10,Petite-Anse,Cap-Haïtien,187230,14.7
+2025-11,Petite-Anse,Cap-Haïtien,101850,8.4
+2025-12,Petite-Anse,Cap-Haïtien,126420,11.4
