@@ -13,8 +13,10 @@ Une compagnie d'électricité (fictive) vous confie deux ans de relevés, de jan
 
 ## Ce qu'il faut rendre
 
-1. **`exploration.ipynb`** : questions 1 à 19. On y voit toute votre démarche : diagnostic, nettoyage, jointures, graphiques, conclusion. Exécutez-le du début à la fin (**Restart**, puis **Run All**) avant de pousser : les sorties et les graphiques doivent être visibles sur GitHub. La question 18 écrit `donnees/consommation_propre.csv`.
-2. **`app.py`** : le tableau de bord Streamlit des questions 20 à 25, **en ligne**, qui lit `donnees/consommation_propre.csv`.
+1. **`exploration.ipynb`** : toute votre démarche, dans le même plan que le projet final : diagnostic, nettoyage, jointures (qui écrivent `donnees/consommation_propre.csv`), une partie par question, conclusion. Exécutez-le du début à la fin (**Restart**, puis **Run All**) avant de pousser : les sorties et les graphiques doivent être visibles sur GitHub.
+2. **`app.py`** : le tableau de bord Streamlit, **en ligne**, construit en six étapes (ci-dessous). Il lit `donnees/consommation_propre.csv` et ne refait pas le nettoyage.
+
+On fait l'exercice ensemble, étape par étape : c'est exactement la démarche du projet final.
 
 ## Démarrer
 
@@ -36,7 +38,18 @@ uv run streamlit run app.py
 
 Le navigateur s'ouvre sur `http://localhost:8501`. Laissez la commande tourner : à chaque enregistrement de `app.py`, cliquez sur **Rerun** (ou choisissez **Always rerun**). `Ctrl+C` dans le terminal arrête l'application.
 
-L'`app.py` de départ affiche seulement le fichier brut : il marche tel quel, vous pouvez le mettre en ligne dès maintenant, puis l'enrichir.
+## Le tableau de bord, en six étapes
+
+Après chaque étape : l'application tourne sur votre machine, puis `git add .`, `git commit`, `git push` et `git push perso main`. Le tableau de bord en ligne grandit avec vous.
+
+| Étape | Ce qu'on ajoute | Attendu |
+|---|---|---|
+| 1 | L'`app.py` de départ, tel quel : titre et fichier brut. On le met **en ligne tout de suite** (section suivante) | un lien en `.streamlit.app` qui affiche 300 lignes |
+| 2 | Lire `consommation_propre.csv` dans une fonction décorée par `@st.cache_data` ; deux phrases de contexte | l'application démarre sans erreur |
+| 3 | Deux filtres dans la barre latérale : `st.sidebar.multiselect` des communes (toutes cochées), `st.sidebar.selectbox` de l'année | 2025 par défaut ; un message si aucune commune n'est choisie |
+| 4 | Trois indicateurs côte à côte : `st.columns(3)` et `st.metric` | 2025, toutes communes : 37.35 millions de kWh, 222.2 kWh par abonné, 12.0 heures de courant |
+| 5 | `st.tabs` : un onglet par question (parties 4 à 8 du notebook), chacun avec un graphique et une phrase chiffrée | corrélations 0.76 et -0.15 dans l'onglet « Chaleur ou courant ? » |
+| 6 | La conclusion (`st.markdown`), puis les données filtrées dans un `st.expander` | la réponse de la partie 9 du notebook |
 
 ## Mettre l'application en ligne
 
