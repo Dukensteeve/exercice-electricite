@@ -19,3 +19,15 @@ df = charger()
 
 st.write("Deux ans de relevés mensuels, pour 12 quartiers de 4 communes.")
 st.write("Question du directeur : **la consommation suit-elle la chaleur, ou les heures de courant ?**")
+
+# --- Étape 3 : filtres ---
+toutes = sorted(df["commune"].unique())
+communes = st.sidebar.multiselect("Communes", toutes, default=toutes)
+annee = st.sidebar.selectbox("Année", sorted(df["annee"].unique(), reverse=True))
+
+if not communes:
+    st.warning("Choisissez au moins une commune.")
+    st.stop()
+
+choix = df[df["commune"].isin(communes)]
+filtre = choix[choix["annee"] == annee]
