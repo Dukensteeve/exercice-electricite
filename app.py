@@ -71,3 +71,12 @@ with t4:
 with t5:
     top = filtre.nlargest(3, "kwh")[["mois", "quartier", "type", "kwh"]]
     st.dataframe(top, hide_index=True)
+
+# --- Étape 6 : conclusion ---
+st.markdown("""
+### Conclusion
+COLLE ICI TA CONCLUSION DE LA PARTIE 9
+""")
+
+with st.expander("Voir les données filtrées"):
+    st.dataframe(filtre, hide_index=True)
