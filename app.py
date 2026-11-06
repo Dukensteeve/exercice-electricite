@@ -75,8 +75,7 @@ with t5:
 # --- Étape 6 : conclusion ---
 st.markdown("""
 ### Conclusion
-COLLE ICI TA CONCLUSION DE LA PARTIE 9
-""")
+Dans les quartiers résidentiels, la consommation suit les heures de courant, pas la chaleur. La corrélation entre la consommation par abonné et les heures de courant est de 0.76, alors qu'elle n'est que de -0.15 avec la température. Attention : une corrélation montre que les deux varient ensemble, pas que plus de courant fait consommer plus ; d'autres facteurs peuvent expliquer ce lien.""")
 
 with st.expander("Voir les données filtrées"):
     st.dataframe(filtre, hide_index=True)
