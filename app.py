@@ -31,3 +31,9 @@ if not communes:
 
 choix = df[df["commune"].isin(communes)]
 filtre = choix[choix["annee"] == annee]
+
+# --- Étape 4 : indicateurs ---
+col1, col2, col3 = st.columns(3)
+col1.metric("Millions de kWh", f"{filtre['kwh'].sum() / 1_000_000:.2f}")
+col2.metric("kWh par abonné", f"{filtre['kwh_par_abonne'].mean():.1f}")
+col3.metric("Heures de courant / jour", f"{filtre['heures_courant'].mean():.1f}")
